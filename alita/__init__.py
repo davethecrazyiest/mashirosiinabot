@@ -54,7 +54,7 @@ LOGGER.info("|      Alita_Robot     |")
 LOGGER.info("------------------------")
 LOGGER.info(f"Version: {Config.VERSION}")
 LOGGER.info(f"Owner: {str(Config.OWNER_ID)}")
-LOGGER.info("Source Code: https://telegra.ph/file/ef1f6ccdf32344880df06.jpg\n")
+LOGGER.info("Source Code: https://github.com/divideprojects/Alita_Robot\n")
 
 # Account Related
 BOT_TOKEN = Config.BOT_TOKEN
